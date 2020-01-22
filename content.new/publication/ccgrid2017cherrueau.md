@@ -1,0 +1,36 @@
+---
+title: "Toward a Holistic Framework for Conducting Scientific Evaluations of
+OpenStack"
+date: 2017-05-14
+draft: false
+
+authors: ["Ronan-Alexandre Cherrueau", "Dimitri Pertin", "Anthony Simonet",
+"Adrien Lebre", "Matthieu Simonin"]
+
+publication_types: ["1"]
+publication: "In Proceedings of the 17th IEEE/ACM International Symposium
+on Cluster, Cloud and Grid Computing"
+publication_short: "CCGRID"
+
+abstract: "By massively adopting OpenStack for operating small to large private
+and public clouds, the industry has made it one of the largest running software
+project, overgrowing the Linux kernel. However, with success comes increased
+complexity; facing technical and scientific challenges, developers are in
+great difficulty when testing the impact of individual changes on the
+performance of such a large codebase, which will likely slow down the evolution
+of OpenStack. Thus, we claim it is now time for the scientific community to
+join the effort and get involved in the development of OpenStack, like it has
+been once done for Linux. In this spirit, we developed Enos, an integrated
+framework that relies on container technologies for deploying and evaluating
+OpenStack on any testbed. Enos allows researchers to easily express different
+configurations, enabling fine-grained investigations of OpenStack services.
+Enos collects performance metrics at runtime and stores them for post-mortem
+analysis and sharing. The relevance of the Enos approach to reproducible
+research is illustrated by evaluating different OpenStack scenarios on the
+Grid'5000 testbed."
+
+projects: ["discovery"]
+url_hal: "https://hal.archives-ouvertes.fr/hal-01664515"
+url_pdf: "https://hal.archives-ouvertes.fr/hal-01664515/document"
+---
+
