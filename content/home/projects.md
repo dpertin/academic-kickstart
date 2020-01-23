@@ -27,11 +27,11 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Erasure Coding"
-    tag = "erasure_code"
+    tag = "Erasure code"
   
   [[content.filter_button]]
     name = "IaaS Manager"
-    tag = "iaas"
+    tag = "IaaS"
 
   # [[content.filter_button]]
   #   name = "Deep Learning"
