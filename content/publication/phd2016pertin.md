@@ -4,17 +4,8 @@ date: 2016-04-22
 draft: false
 
 authors: ["Dimitri Pertin"]
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
 publication_types: ["0"]
-publication: "Ph.D (manuscript in french, slides in english)"
+publication: "Ph.D thesis (manuscript in french, slides in english)"
 
 abstract: "Erasure codes can generate data redundancy in distributed storage
 systems. This redundancy can be used to recover missing data in case of a

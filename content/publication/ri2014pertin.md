@@ -8,6 +8,7 @@ authors: ["Dimitri Pertin", "Nicolas Normand"]
 publication_types: ["1"]
 publication: "In Proceedings of the 9ème Journées du Groupe de travail de
 Géométrie Discrète, Reims Image"
+publication_short: "Reims Image"
 
 abstract: "Discrete tomography focuses on image representation by its discrete
 projections, and the related inversion algorithms (or image reconstruction).
